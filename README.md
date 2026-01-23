@@ -1,6 +1,7 @@
 
 
-# Hi there, I'm Alexandros! 👋
+# Hi there👋
+
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/2097d44d-8b3e-4247-8e16-5bd7153f4b5f" />
 
 ## About Me 
