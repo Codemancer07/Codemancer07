@@ -1,9 +1,5 @@
 
 
-
-
-
-
 <img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/a7aa4c92-5541-4175-9502-e77febf8eb7c" />
 
 ## About Me 
